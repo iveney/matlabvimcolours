@@ -144,4 +144,5 @@ function GetMatlabIndent()
   return curind
 endfunction
 
-" vim:sw=2
+set ts=2
+set sw=2
